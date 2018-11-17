@@ -18,4 +18,4 @@ Some results
 
   [1]: http://static.zybuluo.com/mumujun/zfq4rzwu4av439yzb1ly7ja6/detection%20001.png
   [2]: http://static.zybuluo.com/mumujun/5o9dv7wjbu0becvzw8g8ard7/result1.png
-  [3]: http://static.zybuluo.com/mumujun/ddarewbdzjiass5n504aoouv/result2.png
+  [3]: https://github.com/MuMuJun97/pedestrian_mu/blob/master/result2.png
